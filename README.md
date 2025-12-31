@@ -16,3 +16,6 @@ A simple custom dropdown built using HTML, Tailwind CSS, and JavaScript.
 ## Purpose
 
 Practice challenge from roadmap.sh
+
+## Project URL
+[View Project] (https://roadmap.sh/projects/custom-dropdown)
